@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.autopep8",
+        "ms-python.flake8",
+        "njpwerner.autodocstring",
+        "davidanson.vscode-markdownlint",
+        "inferrinizzard.prettier-sql-vscode",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.datawrangler",
+    ]
+}
