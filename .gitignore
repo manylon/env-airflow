@@ -1,0 +1,32 @@
+# python cache
+**/__pycache__/
+**/.pytest_cache/
+
+# Docker environments
+.docker/.env
+.docker/*.env
+
+# vscode workspace
+*.code-workspace
+
+# Ignore Mac DS_Store files
+.DS_Store
+**/.DS_Store
+
+# Ignore temp files
+temp*.txt
+temp/
+
+# Logs
+logs/
+*.log
+
+# NOTE: Adjust or remove any of these lines based on your specific version control requirements.
+# Airflow
+store/*
+plugins/*
+config/*
+dags/*
+
+# Ignore Postgres volume
+postgres_volume/**
